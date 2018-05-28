@@ -1,5 +1,5 @@
 # Fill the Void
-- [Fill the Void](https://github.com/cybervoid/fill-the-void) is an initiative to propel personal understanding of Blockchain technology to an expert level.  
+- [cybervoid/Fill the Void](https://github.com/cybervoid/fill-the-void) is an initiative to propel personal understanding of Blockchain technology to an expert level.  
 
 ## Repositories
 1. [cybervoid/VoidChain](https://github.com/cybervoid/VoidChain) - *Blockchains* _(general)_
