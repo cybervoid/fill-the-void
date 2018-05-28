@@ -14,11 +14,11 @@
 5. *Misc Topics*
     1. [Cryptography](https://github.com/cybervoid/Cryptography) - I have an on-going repository for learning more about applied cryptography.
     2. Langauges - `I have noticed a pattern with many projects, there are certain languages that keep re-appearing across projects. I took the initiative to learn the fundamentals of these languages`
-        1. GoLang - [GoRepository](https://github.com/cybervoid/GoRepository/)
-        2. Python - [PythonRepository](https://github.com/cybervoid/PythonRepository)
-        3. JavaScript / NodeJS -  [JavaScriptRepository](https://github.com/cybervoid/JavaScriptRepository)
+        1. [GoRepository](https://github.com/cybervoid/GoRepository/) - GoLang
+        2. [PythonRepository](https://github.com/cybervoid/PythonRepository) - Python
+        3. [JavaScriptRepository](https://github.com/cybervoid/JavaScriptRepository) - JavaScript / NodeJS
 6. Projects
-    1. [PLightning](https://github.com/cybervoid/PLightning) (in design) - A GoLang project to integrated raspberry Pi and bitcoin lightning Network. This is being done in combination with learning GoLang - see [GoRepository](https://github.com/cybervoid/GoRepository/)
+    1. [PLightning](https://github.com/cybervoid/PLightning) (in design phase) - A GoLang project to integrated raspberry Pi and bitcoin lightning Network. This is being done in combination with learning GoLang - see [GoRepository](https://github.com/cybervoid/GoRepository/)
 7. Planned:  
     1. [HyperledgerRepository](https://github.com/cybervoid/HyperledgerRepository)(Private, planned) - I've done some work with Hyperledger, but not much due to time constraints.
     2. Cardano - (planned)
