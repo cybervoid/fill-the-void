@@ -5,6 +5,7 @@
 1. [cybervoid/VoidChain](https://github.com/cybervoid/VoidChain) - *Blockchains* _(general)_
 2. [cybervoid/LightningVoid](https://github.com/cybervoid/LightningVoid) - *Bitcoin*
     - This started as an effort to learn more about Lightning network, and quickly became a workspace to explore advanced topics regarding Bitcoin.
+    - **Note: This repository is private, access available upon request**
 3. [cybervoid/RaidenVoid](https://github.com/cybervoid/RaidenVoid) - *Ethereum*
     - A repository to act as an exploratory playground for better understanding Ethereum
     - **Note: This repository is private, access available upon request**
